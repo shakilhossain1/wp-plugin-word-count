@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Our Custom Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-13 09:49+0000\n"
+"PO-Revision-Date: 2021-06-13 09:53+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bengali (Bangladesh)\n"
+"Language: bn_BD\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
+"X-Domain: wcp"
+
+#: custom-plugin.php:91
+msgid "Character Count"
+msgstr ""
+
+#: custom-plugin.php:57
+msgid "Characters."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.shakilhossain.com"
+msgstr ""
+
+#: custom-plugin.php:62
+msgid "minute(s) to read."
+msgstr ""
+
+#. Name of the plugin
+msgid "Our Custom Plugin"
+msgstr ""
+
+#. Author of the plugin
+msgid "Shakil Hossain"
+msgstr ""
+
+#. Description of the plugin
+msgid "this is our custom plugin description"
+msgstr "এটি একটি দারুন প্লাগিন"
+
+#: custom-plugin.php:53 custom-plugin.php:57
+msgid "This post has"
+msgstr "এই পোস্টটির "
+
+#: custom-plugin.php:62
+msgid "This post will take about"
+msgstr "এটি সময় নেবে"
+
+#: custom-plugin.php:103
+msgid "Word Count"
+msgstr "শব্দ গননা"
+
+#: custom-plugin.php:102
+msgid "Word Count Setting Page"
+msgstr "শব্দ গননা সেটিংস পেজ "
+
+#: custom-plugin.php:53
+msgid "words."
+msgstr "শব্দ"
